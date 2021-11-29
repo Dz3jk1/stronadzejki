@@ -3,6 +3,7 @@ body {
 background-image:url(esport.jpg);
 background-attachment: fixed;
 background-repeat: no-repeat;
+background-size:cover;
 }
 #MENU{
 	font-weight:bold;
