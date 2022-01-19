@@ -1,0 +1,26 @@
+body
+{
+    font-family: 'Arial Narrow Bold';
+    font-size: 18pt;
+    color: rgb(0, 0, 0);
+    background-color: grey;
+    text-align: center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size:cover;
+}
+
+
+.strona {
+    position:fixed;
+    top: 50%;
+    left:5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36pt;
+    color: yellow;
+    height: auto;
+    width: 90%;
+    background: #008000;
+    border-radius: 50px;
+    text-align: center;
+}
